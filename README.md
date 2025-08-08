@@ -1,4 +1,4 @@
-**ChatGPT Projects CLI Documentation (v6)**
+**ChatGPT Projects CLI Documentation (v5)**
 
 **Introduction**
 
